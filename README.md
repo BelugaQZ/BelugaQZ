@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BelugaQZ
-- 👀 I’m interested in Android
+- 👀 I’m interested in development
 - 🌱 I’m currently learning Geekbrains
 - 📫 How to reach me 
 WhatsApp/Telegram: 87471158240
